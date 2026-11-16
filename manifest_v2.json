@@ -1,0 +1,47 @@
+{
+  "item": {
+    "id": "979815141180",
+    "restype": "watchface",
+    "name": "双列视图",
+    "description": "在小米手环9和小米手环10上实现应用列表的双列视图",
+    "preview": [
+      "media/13670.png",
+      "media/13667.png",
+      "media/13668.png"
+    ],
+    "icon": "media/13671.png",
+    "cover": "media/13666.png",
+    "author": [
+      {
+        "name": "bandbbs_2052034",
+        "bindABAccount": true
+      },
+      {
+        "name": "𝐰𝐮𝐝𝐢𝐛𝐥𝐮𝐬",
+        "bindABAccount": false
+      }
+    ]
+  },
+  "links": [
+    {
+      "title": "交流群",
+      "url": "https://qun.qq.com/universal-share/share?ac=1&authKey=cTsG3LRwO6J679Ouwfak3zQsmD1eydfuAw%2B5v%2BNoVP9JPDb7Bw2mvH4e6P1e%2FTBo&busi_data=eyJncm91cENvZGUiOiIzMzgwODE2MTQiLCJ0b2tlbiI6ImdFMnVtT0dnTTl0ZWdRNGRlK1o1dC9ud0hyYXBmN3p3azV5WVlDWGIvbjVubDJ1N2E1MnUwZ2dnNTFYLzJsTm8iLCJ1aW4iOiIxNDA1Nzk0MzY4In0%3D&data=0X6Uq79korbQBd9KzADDrfJIjwxjGWKLvFMGoIjizKZ16l3TOvooCerNTuczdblNe3kVRfLkubykuV0y3YzyXw&svctype=4&tempid=h5_group_info",
+      "icon": "chat-circle-dots"
+    }
+  ],
+  "downloads": {
+    "xmb9": {
+      "version": "1.0.0",
+      "file_name": "downloads/9双列视图R30.bin",
+      "versionCode": 65536
+    },
+    "xmb10": {
+      "version": "1.0.0",
+      "file_name": "downloads/10双列视图R29.bin",
+      "versionCode": 65536
+    }
+  },
+  "ext": {
+    "enableAstroBoxCreatorFeatures": true
+  }
+}
