@@ -3,7 +3,7 @@
     "id": "979815141180",
     "restype": "watchface",
     "name": "双列视图",
-    "description": "在小米手环9和小米手环10上实现应用列表的双列视图",
+    "description": "在小米手环9和小米手环10上实现应用列表的双列视图。\n支持的固件版本如下\n小米手环9（含NFC）：3.1.17、3.1.32、3.1.35 \n小米手环10（含NFC）：3.1.23、3.1.26、3.1.28、3.1.33",
     "preview": [
       "media/13670.png",
       "media/13667.png",
@@ -31,19 +31,37 @@
   ],
   "downloads": {
     "xmb9": {
-      "version": "1.0.0",
-      "file_name": "downloads/9双列视图R30.bin",
-      "versionCode": 65536
+      "version": "1.0.1",
+      "file_name": "downloads/9双列视图.bin",
+      "versionCode": 65537,
+      "updatelogs": [
+        {
+          "version": "1.0.1",
+          "content": "增加了更多固件版本的支持"
+        }
+      ]
     },
     "xmb10": {
-      "version": "1.0.0",
-      "file_name": "downloads/10双列视图R29.bin",
-      "versionCode": 65536
+      "version": "1.0.1",
+      "file_name": "downloads/10双列视图.bin",
+      "versionCode": 65537,
+      "updatelogs": [
+        {
+          "version": "1.0.1",
+          "content": "增加了更多固件版本的支持"
+        }
+      ]
     },
     "xmb10nfc": {
-      "version": "1.0.0",
-      "file_name": "downloads/10双列视图R29-xmb10nfc.bin",
-      "versionCode": 65536
+      "version": "1.0.1",
+      "file_name": "downloads/10双列视图.bin",
+      "versionCode": 65537,
+      "updatelogs": [
+        {
+          "version": "1.0.1",
+          "content": "增加了更多固件版本的支持"
+        }
+      ]
     }
   },
   "ext": {
